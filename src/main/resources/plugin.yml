@@ -1,0 +1,4 @@
+name: hyfarm
+version: '1.0-SNAPSHOT'
+main: net.hynse.hyfarm.Hyfarm
+api-version: '1.21'
